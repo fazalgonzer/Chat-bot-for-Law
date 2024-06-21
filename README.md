@@ -1,1 +1,2 @@
-# Chat_bpt_PakLaw
+In this im experimenting a chatbot which will elp the local lay man to know their rights by our chat bot still in experimenting
+Phase and its  not the final project there will be a web app : architecture will be posted
