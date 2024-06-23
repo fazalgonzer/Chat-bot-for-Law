@@ -12,8 +12,7 @@ from langchain_community.document_loaders import PyPDFDirectoryLoader
 from dotenv import load_dotenv
 load_dotenv()
 os.environ["CHATGROQ_API_KEY"]=os.getenv("GROQ_API_KEY")
-os.environ["LANGCHAIN_TRACING_V2"]="true"
-os.environ["LANGCHAIN_API_KEY"]=os.getenv("LANGCHAIN_API_KEY")
+
 groq_api_key=os.getenv('GROQ_API_KEY')
 
 st.title("LawChat for PAk")
